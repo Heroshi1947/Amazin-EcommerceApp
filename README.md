@@ -1,8 +1,6 @@
 # Amazin-EcommerceApp
 full stack ecommerce app called Amazin inspired from Ecommerce brands, made by mainly using MongoDb, Express ,ReactJs , NodeJs.
 
-# Amazin webApp is live now on : https://chocolate-sea-urchin-garb.cyclic.app/
-
 Home Page : 
 ![image](https://github.com/Heroshi1947/Amazin-EcommerceApp/assets/123864184/d4a865ff-cebd-499e-b4c0-11ab3d0c3c26)
 
